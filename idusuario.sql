@@ -1,0 +1,3 @@
+CREATE TABLE usuarios (
+  idusuarios INTEGER UNSIGNED  NOT NULL   AUTO_INCREMENT  ,
+PRIMARY KEY(idusuarios));
